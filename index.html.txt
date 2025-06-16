@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Professional Copywriting Service</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+<style>
+body {
+font-family: 'Inter', sans-serif;
+margin: 0;
+padding: 0;
+background: #f9f9f9;
+}
+
+.container {
+max-width: 750px;
+margin: 50px auto;
+background: #ffffff;
+padding: 40px;
+border-radius: 15px;
+box-shadow: 0 12px 30px rgba(0,0,0,0.1);
+text-align: center;
+}
+
+h1 {
+font-size: 32px;
+color: #2c3e50;
+margin-bottom: 20px;
+}
+
+.subtitle {
+font-size: 20px;
+color: #555;
+margin-bottom: 30px;
+}
+
+.price-tag {
+font-size: 24px;
+color: #27ae60;
+margin: 15px 0;
+}
+
+.benefits {
+background: #ecf0f1;
+border-radius: 10px;
+padding: 25px;
+text-align: left;
+margin: 30px 0;
+}
+
+.benefits h2 {
+font-size: 22px;
+color: #2d3436;
+margin-bottom: 15px;
+}
+
+.benefits ul {
+padding-left: 20px;
+}
+
+.benefits li {
+margin-bottom: 10px;
+font-size: 17px;
+}
+
+.cta-button {
+display: inline-block;
+margin-top: 20px;
+padding: 15px 35px;
+background-color: #2ecc71;
+color: white;
+font-size: 18px;
+font-weight: bold;
+border-radius: 10px;
+text-decoration: none;
+transition: 0.3s ease;
+}
+
+.cta-button:hover {
+background-color: #27ae60;
+}
+
+.contact {
+margin-top: 40px;
+font-size: 16px;
+color: #34495e;
+line-height: 1.8;
+}
+
+footer {
+margin-top: 30px;
+font-size: 14px;
+color: #888;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+<h1>💼 Copywriting That Sells</h1>
+<p class="subtitle">Need powerful words? I’ll write any copy you need — ads, websites, emails, or social posts!</p>
+
+<div class="price-tag">🔥 Starting at just <strong>$1</strong> per copy!</div>
+
+<div class="benefits">
+<h2>Why Choose Me?</h2>
+<ul>
+<li>🖊️ I write clear, persuasive, and professional copy.</li>
+<li>🚀 Fast delivery and unlimited revisions (until you're happy).</li>
+<li>📢 Ad copy, website content, product descriptions, and more.</li>
+<li>🌍 Available in English, Arabic, or French.</li>
+<li>💡 Creative and SEO-optimized content that gets results.</li>
+</ul>
+</div>
+
+<a class="cta-button" href="https://wa.me/212618369692" target="_blank">📩 Order Now via WhatsApp</a>
+
+<div class="contact">
+<p>📞 <strong>Phone:</strong> 0618369692</p>
+<p>📧 <strong>Email:</strong> <a href="mailto:abdelhadibadi121@gmail.com">abdelhadibadi121@gmail.com</a></p>
+</div>
+
+<footer>© 2025 – Your Trusted Freelance Copywriter</footer>
+</div>
+
+</body>
+</html>
